@@ -76,6 +76,6 @@ streamlit run app.py
 ## Related
 
 * [Jamaica remittances tracker and forecast](https://github.com/Soulkinggja/jamaica-remittances)
-  and the working paper [Diaspora as Insurance](https://doi.org/10.5281/zenodo.24473012).
+  and the working paper [Diaspora as Insurance](https://doi.org/10.5281/zenodo.24473011).
 
 Built by Devin McIntosh.
