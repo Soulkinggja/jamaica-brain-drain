@@ -1,0 +1,400 @@
+year,visa_group,visa_type,applicant,issued
+2005,Family,Family: Child,All,79
+2005,Family,Family: Partner,All,382
+2005,Other,Dep. joining or accompanying,Dependant,247
+2005,Other,EEA Family Permit,All,78
+2005,Other,Other settlement visas,Main Applicant,23
+2005,Other,Other settlement visas,All,69
+2005,Other,Other temporary visas,All,496
+2005,Study,Other study,Main Applicant,501
+2005,Study,Other study,Dependant,20
+2005,Visitor,Visitor,All,8594
+2005,Work,Other work visas and exemptions,Main Applicant,940
+2005,Work,Other work visas and exemptions,Dependant,121
+2005,Family,Family: Other,All,6
+2006,Family,Family: Child,All,93
+2006,Family,Family: Other,All,2
+2006,Family,Family: Partner,All,523
+2006,Other,Dep. joining or accompanying,Dependant,78
+2006,Other,EEA Family Permit,All,71
+2006,Other,Other settlement visas,Main Applicant,20
+2006,Other,Other settlement visas,All,40
+2006,Other,Other temporary visas,All,592
+2006,Study,Other study,Main Applicant,193
+2006,Study,Other study,Dependant,8
+2006,Visitor,Visitor,All,7740
+2006,Work,Other work visas and exemptions,Dependant,137
+2006,Work,Other work visas and exemptions,Main Applicant,1085
+2006,Family,Refugee Family Reunion,All,1
+2007,Family,Family: Child,All,248
+2007,Family,Family: Other,All,13
+2007,Family,Family: Partner,All,829
+2007,Other,Dep. joining or accompanying,Dependant,192
+2007,Other,EEA Family Permit,All,203
+2007,Other,Other settlement visas,Main Applicant,12
+2007,Other,Other settlement visas,All,31
+2007,Other,Other temporary visas,All,607
+2007,Study,Other study,Main Applicant,211
+2007,Study,Other study,Dependant,39
+2007,Visitor,Visitor,All,7422
+2007,Work,Other work visas and exemptions,Main Applicant,793
+2007,Work,Other work visas and exemptions,Dependant,266
+2007,Family,Refugee Family Reunion,All,4
+2008,Family,Family: Child,All,284
+2008,Family,Family: Other,All,21
+2008,Family,Family: Partner,All,1158
+2008,Other,Dep. joining or accompanying,Dependant,172
+2008,Other,EEA Family Permit,All,66
+2008,Other,Other settlement visas,Main Applicant,7
+2008,Other,Other settlement visas,All,30
+2008,Other,Other temporary visas,All,857
+2008,Study,Other study,Main Applicant,170
+2008,Study,Other study,Dependant,16
+2008,Visitor,Visitor,All,6541
+2008,Work,Other work visas and exemptions,Main Applicant,638
+2008,Work,Other work visas and exemptions,Dependant,132
+2008,Work,"Investor, business development and talent",Dependant,7
+2008,Work,"Investor, business development and talent",Main Applicant,15
+2008,Family,Refugee Family Reunion,All,2
+2009,Family,Family: Child,All,164
+2009,Family,Family: Other,All,6
+2009,Family,Family: Partner,All,598
+2009,Other,Dep. joining or accompanying,Dependant,98
+2009,Other,EEA Family Permit,All,89
+2009,Other,Other settlement visas,Main Applicant,9
+2009,Other,Other settlement visas,All,23
+2009,Other,Other temporary visas,All,1198
+2009,Study,Other study,Main Applicant,74
+2009,Study,Other study,Dependant,6
+2009,Visitor,Visitor,All,5752
+2009,Work,"Investor, business development and talent",Dependant,13
+2009,Work,"Investor, business development and talent",Main Applicant,30
+2009,Work,Other work visas and exemptions,Main Applicant,37
+2009,Work,Other work visas and exemptions,Dependant,45
+2009,Work,Temporary Worker,Main Applicant,571
+2009,Work,Worker,Main Applicant,168
+2009,Family,Refugee Family Reunion,All,1
+2009,Study,Sponsored study,Dependant,7
+2009,Study,Sponsored study,Main Applicant,104
+2009,Work,Worker,Dependant,21
+2009,Work,Temporary Worker,Dependant,1
+2010,Work,Worker,Main Applicant,311
+2010,Family,Family: Child,All,306
+2010,Family,Family: Other,All,16
+2010,Family,Family: Partner,All,719
+2010,Other,Dep. joining or accompanying,Dependant,112
+2010,Other,EEA Family Permit,All,96
+2010,Other,Other settlement visas,Main Applicant,12
+2010,Other,Other settlement visas,All,32
+2010,Other,Other temporary visas,All,946
+2010,Study,Other study,Main Applicant,196
+2010,Study,Other study,Dependant,2
+2010,Study,Sponsored study,Dependant,12
+2010,Study,Sponsored study,Main Applicant,102
+2010,Visitor,Visitor,All,5553
+2010,Work,"Investor, business development and talent",Dependant,15
+2010,Work,"Investor, business development and talent",Main Applicant,22
+2010,Work,Other work visas and exemptions,Dependant,6
+2010,Work,Other work visas and exemptions,Main Applicant,5
+2010,Work,Temporary Worker,Main Applicant,376
+2010,Work,Worker,Dependant,18
+2010,Family,Refugee Family Reunion,All,1
+2011,Family,Family: Child,All,231
+2011,Family,Family: Other,All,6
+2011,Family,Family: Partner,All,676
+2011,Family,Refugee Family Reunion,All,4
+2011,Other,Dep. joining or accompanying,Dependant,102
+2011,Other,EEA Family Permit,All,79
+2011,Other,Other settlement visas,Main Applicant,4
+2011,Other,Other settlement visas,All,14
+2011,Other,Other temporary visas,All,769
+2011,Study,Other study,Main Applicant,49
+2011,Study,Sponsored study,Main Applicant,221
+2011,Visitor,Visitor,All,4962
+2011,Work,"Investor, business development and talent",Dependant,146
+2011,Work,Other work visas and exemptions,Main Applicant,10
+2011,Work,Temporary Worker,Main Applicant,462
+2011,Work,Worker,Dependant,21
+2011,Work,Worker,Main Applicant,26
+2011,Work,"Investor, business development and talent",Main Applicant,4
+2011,Work,Other work visas and exemptions,Dependant,1
+2011,Study,Sponsored study,Dependant,3
+2011,Work,Temporary Worker,Dependant,1
+2012,Other,Other temporary visas,All,660
+2012,Family,Family: Child,All,243
+2012,Family,Family: Other,All,11
+2012,Family,Family: Partner,All,496
+2012,Other,Dep. joining or accompanying,Dependant,62
+2012,Other,EEA Family Permit,All,71
+2012,Other,Other settlement visas,Main Applicant,8
+2012,Other,Other settlement visas,All,15
+2012,Study,Other study,Main Applicant,51
+2012,Study,Sponsored study,Dependant,3
+2012,Study,Sponsored study,Main Applicant,82
+2012,Visitor,Visitor,All,5422
+2012,Work,"Investor, business development and talent",Dependant,3
+2012,Work,"Investor, business development and talent",Main Applicant,145
+2012,Work,Other work visas and exemptions,Main Applicant,8
+2012,Work,Temporary Worker,Main Applicant,461
+2012,Work,Worker,Main Applicant,19
+2012,Work,Worker,Dependant,15
+2012,Other,Other temporary visas,Main Applicant,1
+2012,Work,Temporary Worker,Dependant,3
+2013,Family,Family: Child,All,187
+2013,Family,Family: Other,All,7
+2013,Family,Family: Partner,All,252
+2013,Other,Dep. joining or accompanying,Dependant,181
+2013,Other,EEA Family Permit,All,207
+2013,Other,Other settlement visas,Main Applicant,10
+2013,Other,Other settlement visas,All,8
+2013,Other,Other temporary visas,All,618
+2013,Study,Other study,Main Applicant,186
+2013,Study,Sponsored study,Main Applicant,70
+2013,Visitor,Visitor,All,4875
+2013,Work,"Investor, business development and talent",Dependant,1
+2013,Work,Other work visas and exemptions,Main Applicant,13
+2013,Work,Temporary Worker,Main Applicant,319
+2013,Work,Worker,Dependant,150
+2013,Work,Worker,Main Applicant,10
+2013,Study,Sponsored study,Dependant,1
+2014,Family,Family: Child,All,115
+2014,Family,Family: Other,All,3
+2014,Family,Family: Partner,All,356
+2014,Family,Refugee Family Reunion,All,1
+2014,Other,Dep. joining or accompanying,Dependant,41
+2014,Other,EEA Family Permit,All,45
+2014,Other,Other settlement visas,Main Applicant,7
+2014,Other,Other settlement visas,All,17
+2014,Other,Other temporary visas,All,557
+2014,Study,Other study,Main Applicant,57
+2014,Study,Sponsored study,Main Applicant,73
+2014,Visitor,Visitor,All,4662
+2014,Work,"Investor, business development and talent",Main Applicant,2
+2014,Work,Other work visas and exemptions,Main Applicant,7
+2014,Work,Temporary Worker,Main Applicant,304
+2014,Work,Worker,Main Applicant,23
+2014,Work,Worker,Dependant,21
+2014,Study,Sponsored study,Dependant,6
+2014,Work,"Investor, business development and talent",Dependant,1
+2015,Visitor,Visitor,All,5416
+2015,Family,Family: Child,All,61
+2015,Family,Family: Partner,All,299
+2015,Other,Dep. joining or accompanying,Dependant,32
+2015,Other,EEA Family Permit,All,47
+2015,Other,Other settlement visas,Main Applicant,1
+2015,Other,Other settlement visas,All,26
+2015,Other,Other temporary visas,All,366
+2015,Study,Other study,Main Applicant,54
+2015,Study,Sponsored study,Main Applicant,76
+2015,Work,"Investor, business development and talent",Main Applicant,1
+2015,Work,Other work visas and exemptions,Main Applicant,8
+2015,Work,Temporary Worker,Main Applicant,335
+2015,Work,Worker,Dependant,103
+2015,Work,Worker,Main Applicant,193
+2015,Family,Family: Other,All,3
+2015,Work,Temporary Worker,Dependant,1
+2016,Family,Family: Child,All,77
+2016,Family,Family: Partner,All,327
+2016,Other,Dep. joining or accompanying,Dependant,329
+2016,Other,EEA Family Permit,All,333
+2016,Other,Other settlement visas,Main Applicant,3
+2016,Other,Other settlement visas,All,15
+2016,Other,Other temporary visas,All,522
+2016,Study,Other study,Main Applicant,51
+2016,Study,Sponsored study,Dependant,3
+2016,Study,Sponsored study,Main Applicant,238
+2016,Visitor,Visitor,All,5368
+2016,Work,Other work visas and exemptions,Main Applicant,434
+2016,Work,Temporary Worker,Main Applicant,384
+2016,Work,Worker,Dependant,72
+2016,Work,Worker,Main Applicant,85
+2016,Work,"Investor, business development and talent",Dependant,1
+2016,Work,"Investor, business development and talent",Main Applicant,2
+2016,Family,Family: Other,All,1
+2016,Other,Other temporary visas,Main Applicant,1
+2016,Family,Refugee Family Reunion,All,1
+2017,Study,Other study,Main Applicant,337
+2017,Family,Family: Partner,All,537
+2017,Family,Refugee Family Reunion,All,143
+2017,Family,Family: Child,All,67
+2017,Other,Dep. joining or accompanying,Dependant,47
+2017,Other,EEA Family Permit,All,178
+2017,Other,Other settlement visas,Main Applicant,4
+2017,Other,Other settlement visas,All,12
+2017,Other,Other temporary visas,All,365
+2017,Study,Sponsored study,Dependant,2
+2017,Study,Sponsored study,Main Applicant,83
+2017,Visitor,Visitor,All,6113
+2017,Work,Other work visas and exemptions,Main Applicant,11
+2017,Work,Temporary Worker,Main Applicant,398
+2017,Work,Worker,Dependant,67
+2017,Work,Worker,Main Applicant,73
+2017,Work,"Investor, business development and talent",Main Applicant,1
+2017,Work,Temporary Worker,Dependant,3
+2017,Family,Family: Other,All,4
+2017,Other,Other temporary visas,Main Applicant,1
+2017,Work,Other work visas and exemptions,Dependant,1
+2018,Family,Family: Child,All,84
+2018,Family,Family: Other,All,4
+2018,Family,Family: Partner,All,399
+2018,Other,Dep. joining or accompanying,Dependant,154
+2018,Other,EEA Family Permit,All,44
+2018,Other,Other settlement visas,Main Applicant,8
+2018,Other,Other temporary visas,All,316
+2018,Study,Other study,Main Applicant,323
+2018,Study,Sponsored study,Main Applicant,87
+2018,Visitor,Visitor,All,6377
+2018,Work,"Investor, business development and talent",Main Applicant,2
+2018,Work,Other work visas and exemptions,Main Applicant,11
+2018,Work,Temporary Worker,Main Applicant,342
+2018,Work,Worker,Dependant,101
+2018,Work,Worker,Main Applicant,339
+2018,Family,Refugee Family Reunion,All,283
+2018,Other,Other settlement visas,All,39
+2018,Work,Other work visas and exemptions,Dependant,1
+2018,Work,Temporary Worker,Dependant,3
+2018,Study,Sponsored study,Dependant,4
+2019,Work,Temporary Worker,Main Applicant,552
+2019,Family,Family: Child,All,130
+2019,Family,Family: Other,All,3
+2019,Family,Family: Partner,All,486
+2019,Other,Dep. joining or accompanying,Dependant,4
+2019,Other,EEA Family Permit,All,41
+2019,Other,Other settlement visas,Main Applicant,10
+2019,Other,Other settlement visas,All,40
+2019,Other,Other temporary visas,All,336
+2019,Study,Other study,Main Applicant,49
+2019,Visitor,Visitor,All,6557
+2019,Work,Other work visas and exemptions,Main Applicant,7
+2019,Work,Worker,Dependant,403
+2019,Work,Worker,Main Applicant,397
+2019,Family,Refugee Family Reunion,All,2
+2019,Work,"Investor, business development and talent",Main Applicant,1
+2019,Study,Sponsored study,Main Applicant,69
+2019,Study,Sponsored study,Dependant,2
+2019,Other,EU Settlement Scheme permits,All,6
+2019,Work,Temporary Worker,Dependant,2
+2020,Family,Family: Child,All,69
+2020,Family,Family: Partner,All,335
+2020,Other,EEA Family Permit,All,6
+2020,Other,EU Settlement Scheme permits,All,10
+2020,Other,Other settlement visas,Main Applicant,3
+2020,Other,Other settlement visas,All,9
+2020,Other,Other temporary visas,All,111
+2020,Study,Other study,Main Applicant,14
+2020,Study,Sponsored study,Main Applicant,338
+2020,Visitor,Visitor,All,1513
+2020,Work,Temporary Worker,Main Applicant,46
+2020,Work,Worker,Dependant,217
+2020,Work,Worker,Main Applicant,158
+2020,Work,Other work visas and exemptions,Main Applicant,3
+2020,Other,Dep. joining or accompanying,Dependant,2
+2020,Work,Other work visas and exemptions,Dependant,1
+2020,Work,Temporary Worker,Dependant,1
+2020,Study,Sponsored study,Dependant,141
+2021,Family,Family: Child,All,88
+2021,Family,Family: Other,All,2
+2021,Family,Family: Partner,All,316
+2021,Other,EEA Family Permit,All,2
+2021,Other,EU Settlement Scheme permits,All,11
+2021,Other,Other settlement visas,All,5
+2021,Other,Other temporary visas,All,395
+2021,Study,Sponsored study,Main Applicant,96
+2021,Visitor,Visitor,All,1518
+2021,Work,Temporary Worker,Main Applicant,72
+2021,Work,Worker,Dependant,197
+2021,Work,Worker,Main Applicant,192
+2021,Other,Other settlement visas,Main Applicant,4
+2021,Study,Sponsored study,Dependant,4
+2021,Other,Dep. joining or accompanying,Dependant,5
+2021,Study,Other study,Main Applicant,1
+2021,Work,Other work visas and exemptions,Main Applicant,4
+2021,Work,"Investor, business development and talent",Main Applicant,1
+2022,Family,Family: Child,All,71
+2022,Family,Family: Partner,All,497
+2022,Other,EU Settlement Scheme permits,All,21
+2022,Other,Other settlement visas,All,9
+2022,Other,Other temporary visas,All,197
+2022,Study,Sponsored study,Main Applicant,520
+2022,Visitor,Visitor,All,4996
+2022,Work,Temporary Worker,Main Applicant,237
+2022,Work,Worker,Dependant,478
+2022,Work,Worker,Main Applicant,960
+2022,Family,Family: Other,All,3
+2022,Other,Other settlement visas,Main Applicant,8
+2022,Study,Sponsored study,Dependant,2
+2022,Work,Other work visas and exemptions,Main Applicant,9
+2022,Work,Other work visas and exemptions,Dependant,1
+2022,Work,Temporary Worker,Dependant,3
+2022,Other,Dep. joining or accompanying,Dependant,4
+2022,Work,"Investor, business development and talent",Dependant,1
+2023,Work,Worker,Dependant,1221
+2023,Family,Family: Child,All,106
+2023,Family,Family: Partner,All,684
+2023,Family,Refugee Family Reunion,All,1
+2023,Other,Dep. joining or accompanying,Dependant,2
+2023,Other,EU Settlement Scheme permits,All,13
+2023,Other,Other settlement visas,Main Applicant,12
+2023,Other,Other settlement visas,All,13
+2023,Other,Other temporary visas,All,566
+2023,Study,Sponsored study,Dependant,151
+2023,Study,Sponsored study,Main Applicant,221
+2023,Visitor,Visitor,All,6116
+2023,Work,Other work visas and exemptions,Dependant,5
+2023,Work,Temporary Worker,Main Applicant,203
+2023,Work,Temporary Worker,Dependant,1
+2023,Work,Worker,Main Applicant,1508
+2023,Family,Family: Other,All,2
+2023,Work,Other work visas and exemptions,Main Applicant,16
+2024,Family,Family: Child,All,120
+2024,Family,Family: Other,All,6
+2024,Family,Family: Partner,All,513
+2024,Other,EU Settlement Scheme permits,All,4
+2024,Other,Other settlement visas,All,7
+2024,Other,Other temporary visas,All,281
+2024,Study,Sponsored study,Main Applicant,208
+2024,Visitor,Visitor,All,6507
+2024,Work,Other work visas and exemptions,Dependant,1
+2024,Work,Other work visas and exemptions,Main Applicant,3
+2024,Work,Temporary Worker,Main Applicant,314
+2024,Work,Worker,Dependant,608
+2024,Work,Worker,Main Applicant,483
+2024,Family,Refugee Family Reunion,All,142
+2024,Study,Other study,Main Applicant,1
+2024,Work,Temporary Worker,Dependant,2
+2024,Other,Dep. joining or accompanying,Dependant,7
+2024,Other,Other settlement visas,Main Applicant,7
+2024,Work,"Investor, business development and talent",Dependant,2
+2024,Work,"Investor, business development and talent",Main Applicant,1
+2025,Family,Family: Child,All,60
+2025,Family,Family: Partner,All,276
+2025,Other,Dep. joining or accompanying,Dependant,6
+2025,Other,Other settlement visas,Main Applicant,6
+2025,Other,Other settlement visas,All,6
+2025,Other,Other temporary visas,All,352
+2025,Study,Sponsored study,Dependant,2
+2025,Study,Sponsored study,Main Applicant,220
+2025,Visitor,Visitor,All,6009
+2025,Work,Other work visas and exemptions,Main Applicant,13
+2025,Work,Temporary Worker,Main Applicant,228
+2025,Work,Worker,Dependant,355
+2025,Work,Worker,Main Applicant,76
+2025,Family,Refugee Family Reunion,All,141
+2025,Other,EU Settlement Scheme permits,All,2
+2025,Work,Other work visas and exemptions,Dependant,1
+2025,Family,Family: Other,All,1
+2026,Study,Sponsored study,Dependant,141
+2026,Family,Family: Partner,All,256
+2026,Family,Family: Child,All,14
+2026,Other,Dep. joining or accompanying,Dependant,3
+2026,Other,Other settlement visas,Main Applicant,6
+2026,Other,Other settlement visas,All,3
+2026,Other,Other temporary visas,All,118
+2026,Study,Sponsored study,Main Applicant,5
+2026,Visitor,Visitor,All,2967
+2026,Work,Other work visas and exemptions,Main Applicant,3
+2026,Work,Temporary Worker,Main Applicant,58
+2026,Work,Worker,Dependant,67
+2026,Work,Worker,Main Applicant,23
+2026,Family,Family: Other,All,2
+2026,Other,EU Settlement Scheme permits,All,1

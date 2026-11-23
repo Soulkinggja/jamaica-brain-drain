@@ -1,0 +1,31 @@
+level,category,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026_jan_sep
+D,Agri-Food Pilot,0,0,0,0,0,0,5,10,25,45,10,--
+D,Atlantic Immigration Pilot Programs,0,0,--,35,40,25,85,65,--,0,0,0
+D,Atlantic Immigration Programs,0,0,0,0,0,0,0,0,15,40,55,15
+D,Canadian Experience,180,225,250,240,240,230,1135,320,245,225,250,210
+D,Caregiver,105,55,80,50,45,25,15,15,20,15,25,10
+D,Rural and Northern Immigration,0,0,0,0,0,0,--,15,20,20,30,--
+D,Skilled Trade,40,25,25,5,5,--,--,5,0,0,0,0
+D,Skilled Worker,410,245,260,390,280,105,40,135,110,70,25,35
+C,Worker Program,735,555,615,725,610,390,1280,565,440,410,395,270
+D,Investor,0,--,0,0,0,0,0,0,0,0,0,0
+D,Self-Employed,0,0,0,0,0,0,0,0,0,0,5,0
+C,Business,0,--,0,0,0,0,0,0,0,0,5,0
+D,Provincial Nominee Program,440,635,640,805,765,400,530,460,605,605,470,395
+C,Provincial Nominee Program,440,635,640,805,765,400,530,460,605,605,470,395
+D,Temporary Resident to Permanent Resident Pathway,0,0,0,0,0,0,120,370,640,85,10,0
+C,Temporary Resident to Permanent Resident Pathway,0,0,0,0,0,0,120,370,640,85,10,0
+B,Economic - Total,1175,1190,1255,1530,1370,790,1925,1395,1685,1105,880,665
+D,Sponsored Children,275,350,305,320,320,250,415,610,385,435,430,270
+D,Sponsored Extended Family Member,5,5,--,10,15,--,0,10,10,0,20,10
+D,Sponsored Parent or Grandparent,235,145,125,105,145,85,60,95,140,160,210,125
+D,Sponsored Spouse or Partner,1490,1690,1910,1680,1885,725,1345,1860,1830,1785,1305,1140
+C,Sponsored Family,2005,2190,2345,2120,2370,1060,1825,2570,2365,2380,1965,1545
+B,Sponsored Family - Total,2005,2190,2345,2120,2370,1060,1825,2570,2365,2380,1965,1545
+D,Blended Sponsorship Refugee,0,0,--,--,--,0,0,0,0,0,0,0
+D,Government-Assisted Refugee,0,0,0,10,5,--,0,10,5,15,10,15
+C,Resettled Refugee,0,0,--,10,5,--,0,10,5,15,10,15
+C,Protected Person in Canada,160,110,165,135,125,70,150,125,95,135,110,290
+B,Resettled Refugee & Protected Person in Canada - Total,160,110,165,145,130,75,150,140,100,150,120,305
+B,All Other Immigration - Total,75,70,65,80,110,105,145,145,195,90,15,25
+A,Jamaica - Total,3415,3560,3830,3875,3980,2030,4045,4245,4340,3720,2980,2545
